@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica en Línea - Dr. Juan Miguel Jaramillo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e0f7fa; /* Azul clarito */
+            color: #333;
+        }
+        .header {
+            background-color: #01579b; /* Azul oscuro */
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .main-content {
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .main-content h2 {
+            color: #01579b; /* Azul oscuro */
+        }
+        .main-content p {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        .cta-button {
+            background-color: #0288d1; /* Azul medio */
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+        }
+        .cta-button:hover {
+            background-color: #0277bd; /* Azul medio oscuro */
+        }
+        .footer {
+            background-color: #01579b; /* Azul oscuro */
+            padding: 20px;
+            text-align: center;
+            color: white;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Clínica en Línea del Dr. Juan Miguel Jaramillo</h1>
+        <p>Especialista en Medicina Funcional y Medicina General</p>
+    </div>
+
+    <div class="main-content">
+        <h2>Tratamiento Integral para Enfermedades Crónicas</h2>
+        <p>Diabetes, Hipertensión Arterial, Esclerosis Múltiple, Acné y más.</p>
+        <p>Equilibramos la medicina convencional con alternativas naturales para mejorar tu calidad de vida.</p>
+        <a href="#" class="cta-button">Agendar una Consulta</a>
+    </div>
+
+    <div class="footer">
+        <p>© 2024 Clínica en Línea del Dr. Juan Miguel Jaramillo | Todos los derechos reservados</p>
+        <p>Contacto: info@clinicajaramillo.com | Teléfono: +57 123 456 7890</p>
+    </div>
+
+</body>
+</html>
